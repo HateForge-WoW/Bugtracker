@@ -5,7 +5,6 @@ Dieses Repository dient der Erfassung, Nachverfolgung und Lösung von Fehlern un
 Wir schätzen deine Hilfe und Beiträge, um unser Projekt stetig zu verbessern.
 Hier findest du eine Schritt-für-Schritt-Anleitung, wie du ein Ticket ordnungsgemäß erstellst und so zur Verbesserung unseres Projekts beitragen kannst.
 
-
 ## Vorgehensweise zur Erstellung eines Tickets:
 
 ### 1. GitHub-Konto erstellen oder anmelden:
@@ -31,4 +30,10 @@ Gib einen aussagekräftigen Titel für dein Ticket an. Beschreibe das Problem od
 ### 6. Ticket absenden:
 Klicke auf "Submit new issue", um dein Ticket abzusenden. Die Entwickler und Community-Mitglieder werden sich das Ticket anschauen und gegebenenfalls weitere Informationen oder Lösungen anbieten.
 
-*Wir danken dir für die Unterstützung und deine wertvollen Beiträge! Gemeinsam können wir das Projekt kontinuierlich verbessern und die Qualität unserer Software sicherstellen.*
+### Beispiel Ticket:
+Ein Beispielticket findest du [hier](https://github.com/HateForge-WoW/Bugtracker/issues/1).
+
+## Danke für deine Zeit
+
+Wir danken dir für die Unterstützung und deine wertvollen Beiträge!
+Gemeinsam können wir das Projekt kontinuierlich verbessern und die Qualität unserer Software sicherstellen.
